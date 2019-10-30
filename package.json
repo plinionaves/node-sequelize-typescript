@@ -21,6 +21,6 @@
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "mysql2": "^1.6.5",
-    "sequelize": "^5.12.3"
+    "sequelize": "^5.15.1"
   }
 }
